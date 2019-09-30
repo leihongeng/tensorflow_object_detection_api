@@ -1,0 +1,2 @@
+src/ssd_mobilenet_v1_coco_2017_11_17.tar.gz
+src/ssd_mobilenet_v1_coco_2017_11_17/frozen_inference_graph.pb
